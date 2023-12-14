@@ -1,0 +1,2 @@
+uid,name,description,image,external_url,youtube_url,animation_url,work_scope,work_timeframe,impact_scope,impact_timeframe,contributors,rights,properties,hidden_properties
+report UID,report name,some description,link to report thumbnail,link to the report,link to the youtube (optional),link to animation (optional),"report work scopes with ',' seperate","report work timeframe (e.g. 2021-02-02 → 2021-02-02)","report impact scopes with ',' seperate","report impact timeframe (e.g. 2021-02-02 → indefinite)","contributors with ',' seperate","rights with ',' seperate",,
